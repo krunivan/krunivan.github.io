@@ -1,10 +1,10 @@
 # Test
 Test
-
-$$a^2 + b^2 = c^2$$
-
+ {% raw %}
+  $$a^2 + b^2 = c^2$$
+ {% endraw %}
 aaaa
-\( aaaa \)
+\[ aaaa \)
 
 ## Prvo poglavlje
 
