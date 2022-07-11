@@ -30,3 +30,5 @@ Ovako izgleda display matematika: $$\int_{\gamma} f(z)dz = 0. $$
   
 </p>
 </details>
+
+{% include lib/mathjax.html %}
