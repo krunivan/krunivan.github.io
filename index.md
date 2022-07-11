@@ -7,4 +7,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula diam e
 
 ## Drugo poglavlje
 
-...
+- Ovdje ide zadatak $x^2 + y^2 = z^2$.
+<details><summary>HINT</summary>
+<p>
+  
+  Pitagorin poučak!
+  
+</p>
+</details>
+
+- Ovdje ide drugi zadatak $4k + 3 \mid p^2 + 1$.
+<details><summary>HINT</summary>
+<p>
+  
+  Onaj famozni teorem!
+  
+</p>
+</details>
