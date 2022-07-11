@@ -1,7 +1,7 @@
 title: Testna stranica
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 # enable recognition of Github Flavored Markdown (GFM)
-kramdown:
-  input: GFM
+#kramdown:
+#  input: GFM
