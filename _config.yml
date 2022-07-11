@@ -1,3 +1,7 @@
-theme: minima
+title: Testna stranica
+
+# Build settings
 markdown: kramdown
-math_engine: mathjax
+# enable recognition of Github Flavored Markdown (GFM)
+kramdown:
+  input: GFM
