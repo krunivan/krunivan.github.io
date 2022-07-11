@@ -1,8 +1,5 @@
 # Test
-Test
- {% raw %}
-  $$a^2 + b^2 = c^2$$
- {% endraw %}
+Test $a^2 + b^2 = c^2$
 
 ## Prvo poglavlje
 
