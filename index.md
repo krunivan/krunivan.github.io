@@ -8,6 +8,7 @@ Test $$a^2 + b^2 = c^2$$
 <p style='margin-left:1em;'>
 Ovdje ide neki tekst teorema.<br><br>
     Ovdje ima još teksta teorema...
+</p>
 </span>
 </div>
 
