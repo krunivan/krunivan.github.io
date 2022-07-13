@@ -1,15 +1,13 @@
 # Test
 Test $$a^2 + b^2 = c^2$$
 
-<div class="warning" style='background-color:#eab676; color: #000000; border-left: solid #e28743 4px; border-radius: 4px; padding:0.7em;'>
-<span>
-<p style='margin-top:1em; text-align:left'>
-<b>Teorem</b></p>
-<p style='margin-left:1em;'>
-Ovdje ide neki tekst teorema.<br><br>
-    Ovdje ima još teksta teorema...
+<div class="warning" style="background-color: #e6d2aa; color: #000000; border-left: solid #E0A027 4px; border-radius: 4px; padding: 0.7em;">
+<p style="margin-top: 0.1em; text-align: left; font-size: 120%;">
+    <strong>Teorem</strong>
 </p>
-</span>
+<p style="margin-left: 1em;">
+    Ovdje ide neki tekst teorema.
+</p>
 </div>
 
 ## Prvo poglavlje
